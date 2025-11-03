@@ -1,312 +1,322 @@
-[
-  {
-    "type": "multiple_choice",
-    "q": "Trong các biểu thức sau, biểu thức nào KHÔNG phải là đơn thức?",
-    "a": [
-      "$5x^2y^3$",
-      "$-3xy$",
-      "$10$",
-      "$x + 2y$"
-    ],
-    "correct": 3,
-    "prize": 0.25,
-    "solution": ""
+{
+  "metadata": {
+    "title": "TRẮC NGHIỆM TOÁN 8",
+    "examPeriod": "TUẦN 10",
+    "durationMinutes": 30,
+    "startTime": "2025-11-10T00:00:00+07:00",
+    "endTime": "2025-11-16T23:59:59+07:00"
   },
-  {
-    "type": "multiple_choice",
-    "q": "Giá trị của đa thức $P = 3x - 5y$ tại $x = -2$ và $y = -1$ là:",
-    "a": [
-      "1",
-      "-1",
-      "-11",
-      "11"
-    ],
-    "correct": 1,
-    "prize": 0.25,
-    "solution": ""
-  },
-  {
-    "type": "multiple_choice",
-    "q": "Giá trị của đa thức $Q = x^2 - 4x + 4$ tại $x = 2$ là:",
-    "a": [
-      "0",
-      "4",
-      "8",
-      "16"
-    ],
-    "correct": 0,
-    "prize": 0.25,
-    "solution": ""
-  },
-  {
-    "type": "multiple_choice",
-    "q": "Khai triển hằng đẳng thức $(x + 2y)^2$ ta được kết quả là:",
-    "a": [
-      "$x^2 + 2xy + 4y^2$",
-      "$x^2 + 4xy + 2y^2$",
-      "$x^2 + 4xy + 4y^2$",
-      "$x^2 - 4xy + 4y^2$"
-    ],
-    "correct": 2,
-    "prize": 0.25,
-    "solution": ""
-  },
-  {
-    "type": "multiple_choice",
-    "q": "Điền vào chỗ trống để được hằng đẳng thức đúng $x^2 - 6x + 9 = (\\dots)^2$",
-    "a": [
-      "$x + 3$",
-      "$x - 3$",
-      "$x - 9$",
-      "$3 - x$"
-    ],
-    "correct": 1,
-    "prize": 0.25,
-    "solution": ""
-  },
-  {
-    "type": "multiple_choice",
-    "q": "Kết quả rút gọn biểu thức $(x - 2)(x^2 + 2x + 4)$ là:",
-    "a": [
-      "$x^3 + 8$",
-      "$x^3 - 8$",
-      "$x^3 + 2$",
-      "$x^3 - 2$"
-    ],
-    "correct": 1,
-    "prize": 0.25,
-    "solution": ""
-  },
-  {
-    "type": "multiple_choice",
-    "q": "Hình chóp tứ giác đều có mặt đáy là hình gì?",
-    "a": [
-      "Hình tam giác đều",
-      "Hình vuông",
-      "Hình chữ nhật",
-      "Hình thang cân"
-    ],
-    "correct": 1,
-    "prize": 0.25,
-    "solution": "",
-    "image": "https://i.postimg.cc/tTy4GppW/thu.png"
-  },
-  {
-    "type": "multiple_choice",
-    "q": "Hình chóp tam giác đều có bao nhiêu cạnh?",
-    "a": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "correct": 3,
-    "prize": 0.25,
-    "solution": "",
-    "image": "https://i.postimg.cc/7LP4spbs/h1.png"
-  },
-  {
-    "type": "multiple_choice",
-    "q": "Phân thức $\\frac{5x}{x+3}$ xác định khi nào?",
-    "a": [
-      "$x = 3$",
-      "$x \\neq 3$",
-      "$x = -3$",
-      "$x \\neq -3$"
-    ],
-    "correct": 3,
-    "prize": 0.25,
-    "solution": ""
-  },
-  {
-    "type": "multiple_choice",
-    "q": "Kết quả phép tính $\\frac{3x}{x-y} - \\frac{3y}{x-y}$ là:",
-    "a": [
-      "$\\frac{3(x-y)}{x-y}$",
-      "$3$",
-      "$\\frac{3x-3y}{(x-y)^2}$",
-      "$0$"
-    ],
-    "correct": 1,
-    "prize": 0.25,
-    "solution": ""
-  },
-  {
-    "type": "multiple_choice",
-    "q": "Hình chóp tứ giác đều có độ dài cạnh đáy là 4cm, chiều cao mặt bên (trung đoạn) là 5cm. Diện tích xung quanh của hình chóp là:",
-    "a": [
-      "$20cm^2$",
-      "$40cm^2$",
-      "$60cm^2$",
-      "$80cm^2$"
-    ],
-    "correct": 1,
-    "prize": 0.25,
-    "solution": "",
-    "image": "https://i.postimg.cc/kGQhdgpm/h2.png"
-  },
-  {
-    "type": "multiple_choice",
-    "q": "Thể tích của hình chóp tam giác đều có diện tích đáy $S = 15cm^2$ và chiều cao $h = 6cm$ là:",
-    "a": [
-      "$30cm^3$",
-      "$90cm^3$",
-      "$45cm^3$",
-      "$15cm^3$"
-    ],
-    "correct": 0,
-    "prize": 0.25,
-    "solution": ""
-  },
-  {
-    "type": "true_false",
-    "q": "Cho biểu thức $A = (x+1)^2 - (x-1)^2$. Xét tính Đúng/Sai của các nội dung sau:",
-    "statements": [
-      {
-        "text": "Rút gọn biểu thức trên ta được $A = 4x$",
-        "correct": true
-      },
-      {
-        "text": "Với $x=2$ thì biểu thức nhận giá trị bằng $8$",
-        "correct": true
-      },
-      {
-        "text": "Với $x=-1$ thì biểu thức nhận giá trị bằng $4$",
-        "correct": false
-      },
-      {
-        "text": "Để biểu thức nhận giá trị bằng $0$ thì $x=0$",
-        "correct": true
-      }
-    ],
-    "prizePerItem": 0.25,
-    "solution": ""
-  },
-  {
-    "type": "short_answer",
-    "q": "Giá trị $m$ để biểu thức $x^2 - 10x + m$ là bình phương của một hiệu là:",
-    "correct": [
-      "25"
-    ],
-    "prize": 0.5,
-    "solution": ""
-  },
-  {
-    "type": "short_answer",
-    "q": "Giá trị của biểu thức $A = x(x+y) - y(x+y)$ tại $x = 10; y = 5$ là:",
-    "correct": [
-      "75"
-    ],
-    "prize": 0.5,
-    "solution": ""
-  },
-  {
-    "type": "true_false",
-    "q": "Một mảnh đất hình chữ nhật có chiều dài $(x+10)$ mét và chiều rộng $(x+5)$ mét (với $x > 0$).",
-    "statements": [
-      {
-        "text": "Diện tích mảnh đất được biểu thị bằng đa thức $x^2 + 15x + 50$ (mét vuông).",
-        "correct": true
-      },
-      {
-        "text": "Chu vi mảnh đất là $2x + 15$ (mét).",
-        "correct": false
-      },
-      {
-        "text": "Chu vi mảnh đất là $4x + 30$ (mét).",
-        "correct": true
-      },
-      {
-        "text": "Khi $x=5$, diện tích mảnh đất là $100 m^2$.",
-        "correct": false
-      }
-    ],
-    "prizePerItem": 0.25,
-    "solution": ""
-  },
-  {
-    "type": "true_false",
-    "q": "Cho hình chóp tứ giác đều S.ABCD, có cạnh đáy AB = 8cm, trung đoạn (chiều cao mặt bên) SH = 10cm (H là trung điểm CD).",
-    "statements": [
-      {
-        "text": "ABCD là hình vuông.",
-        "correct": true
-      },
-      {
-        "text": "Diện tích mặt đáy là $64cm^2$.",
-        "correct": true
-      },
-      {
-        "text": "Diện tích xung quanh là $160cm^2$.",
-        "correct": true
-      },
-      {
-        "text": "SH là chiều cao của hình chóp.",
-        "correct": false
-      }
-    ],
-    "prizePerItem": 0.25,
-    "solution": "",
-    "image": "https://i.postimg.cc/HkR0BCSD/h3.png"
-  },
-  {
-    "type": "true_false",
-    "q": "Cho hình chóp tam giác đều S.ABC, chiều cao hình chóp SO = 12cm, thể tích hình chóp là $100cm^3$.",
-    "statements": [
-      {
-        "text": "Mặt đáy ABC là tam giác đều.",
-        "correct": true
-      },
-      {
-        "text": "Diện tích mặt đáy ABC là $25cm^2$.",
-        "correct": true
-      },
-      {
-        "text": "Chiều cao của hình chóp là khoảng cách từ S đến tâm O của đáy.",
-        "correct": true
-      },
-      {
-        "text": "Thể tích được tính bằng $V = S_{day} \\times h$.",
-        "correct": false
-      }
-    ],
-    "prizePerItem": 0.25,
-    "solution": ""
-  },
-  {
-    "type": "short_answer",
-    "q": "Một hộp quà hình chóp tứ giác đều có cạnh đáy 15cm và chiều cao 10cm. Tính thể tích của hộp quà đó (đơn vị $cm^3$).",
-    "correct": [
-      "750"
-    ],
-    "prize": 0.5,
-    "solution": ""
-  },
-  {
-    "type": "short_answer",
-    "q": "Cho hình chóp tam giác đều có diện tích xung quanh là $60cm^2$, chu vi đáy là $30cm$. Chiều cao một mặt bên (trung đoạn) của hình chóp là (đơn vị cm):",
-    "correct": [
-      "4"
-    ],
-    "prize": 0.5,
-    "solution": ""
-  },
-  {
-    "type": "short_answer",
-    "q": "Cho hình chóp tứ giác đều có thể tích $V = 200cm^3$, chiều cao $h = 6cm$. Tính diện tích mặt đáy của hình chóp (đơn vị $cm^2$).",
-    "correct": [
-      "100"
-    ],
-    "prize": 0.5,
-    "solution": ""
-  },
-  {
-    "type": "short_answer",
-    "q": "Một hình chóp tứ giác đều có diện tích đáy là $36cm^2$ và diện tích xung quanh gấp 3 lần diện tích đáy. Tính diện tích toàn phần của hình chóp đó (đơn vị $cm^2$).",
-    "correct": [
-      "144"
-    ],
-    "prize": 0.5,
-    "solution": ""
-  }
-]
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "q": "Trong các biểu thức sau, biểu thức nào KHÔNG phải là đơn thức?",
+      "a": [
+        "$5x^2y^3$",
+        "$-3xy$",
+        "$10$",
+        "$x + 2y$"
+      ],
+      "correct": 3,
+      "prize": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Giá trị của đa thức $P = 3x - 5y$ tại $x = -2$ và $y = -1$ là:",
+      "a": [
+        "1",
+        "-1",
+        "-11",
+        "11"
+      ],
+      "correct": 1,
+      "prize": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Giá trị của đa thức $Q = x^2 - 4x + 4$ tại $x = 2$ là:",
+      "a": [
+        "0",
+        "4",
+        "8",
+        "16"
+      ],
+      "correct": 0,
+      "prize": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Khai triển hằng đẳng thức $(x + 2y)^2$ ta được kết quả là:",
+      "a": [
+        "$x^2 + 2xy + 4y^2$",
+        "$x^2 + 4xy + 2y^2$",
+        "$x^2 + 4xy + 4y^2$",
+        "$x^2 - 4xy + 4y^2$"
+      ],
+      "correct": 2,
+      "prize": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Điền vào chỗ trống để được hằng đẳng thức đúng $x^2 - 6x + 9 = (\\dots)^2$",
+      "a": [
+        "$x + 3$",
+        "$x - 3$",
+        "$x - 9$",
+        "$3 - x$"
+      ],
+      "correct": 1,
+      "prize": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Kết quả rút gọn biểu thức $(x - 2)(x^2 + 2x + 4)$ là:",
+      "a": [
+        "$x^3 + 8$",
+        "$x^3 - 8$",
+        "$x^3 + 2$",
+        "$x^3 - 2$"
+      ],
+      "correct": 1,
+      "prize": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Hình chóp tứ giác đều có mặt đáy là hình gì?",
+      "a": [
+        "Hình tam giác đều",
+        "Hình vuông",
+        "Hình chữ nhật",
+        "Hình thang cân"
+      ],
+      "correct": 1,
+      "prize": 0.25,
+      "solution": "",
+      "image": "https://i.postimg.cc/tTy4GppW/thu.png"
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Hình chóp tam giác đều có bao nhiêu cạnh?",
+      "a": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 3,
+      "prize": 0.25,
+      "solution": "",
+      "image": "https://i.postimg.cc/7LP4spbs/h1.png"
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Phân thức $\\frac{5x}{x+3}$ xác định khi nào?",
+      "a": [
+        "$x = 3$",
+        "$x \\neq 3$",
+        "$x = -3$",
+        "$x \\neq -3$"
+      ],
+      "correct": 3,
+      "prize": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Kết quả phép tính $\\frac{3x}{x-y} - \\frac{3y}{x-y}$ là:",
+      "a": [
+        "$\\frac{3(x-y)}{x-y}$",
+        "$3$",
+        "$\\frac{3x-3y}{(x-y)^2}$",
+        "$0$"
+      ],
+      "correct": 1,
+      "prize": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Hình chóp tứ giác đều có độ dài cạnh đáy là 4cm, chiều cao mặt bên (trung đoạn) là 5cm. Diện tích xung quanh của hình chóp là:",
+      "a": [
+        "$20cm^2$",
+        "$40cm^2$",
+        "$60cm^2$",
+        "$80cm^2$"
+      ],
+      "correct": 1,
+      "prize": 0.25,
+      "solution": "",
+      "image": "https://i.postimg.cc/kGQhdgpm/h2.png"
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Thể tích của hình chóp tam giác đều có diện tích đáy $S = 15cm^2$ và chiều cao $h = 6cm$ là:",
+      "a": [
+        "$30cm^3$",
+        "$90cm^3$",
+        "$45cm^3$",
+        "$15cm^3$"
+      ],
+      "correct": 0,
+      "prize": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "true_false",
+      "q": "Cho biểu thức $A = (x+1)^2 - (x-1)^2$. Xét tính Đúng/Sai của các nội dung sau:",
+      "statements": [
+        {
+          "text": "Rút gọn biểu thức trên ta được $A = 4x$",
+          "correct": true
+        },
+        {
+          "text": "Với $x=2$ thì biểu thức nhận giá trị bằng $8$",
+          "correct": true
+        },
+        {
+          "text": "Với $x=-1$ thì biểu thức nhận giá trị bằng $4$",
+          "correct": false
+        },
+        {
+          "text": "Để biểu thức nhận giá trị bằng $0$ thì $x=0$",
+          "correct": true
+        }
+      ],
+      "prizePerItem": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "short_answer",
+      "q": "Giá trị $m$ để biểu thức $x^2 - 10x + m$ là bình phương của một hiệu là:",
+      "correct": [
+        "25"
+      ],
+      "prize": 0.5,
+      "solution": ""
+    },
+    {
+      "type": "short_answer",
+      "q": "Giá trị của biểu thức $A = x(x+y) - y(x+y)$ tại $x = 10; y = 5$ là:",
+      "correct": [
+        "75"
+      ],
+      "prize": 0.5,
+      "solution": ""
+    },
+    {
+      "type": "true_false",
+      "q": "Một mảnh đất hình chữ nhật có chiều dài $(x+10)$ mét và chiều rộng $(x+5)$ mét (với $x > 0$).",
+      "statements": [
+        {
+          "text": "Diện tích mảnh đất được biểu thị bằng đa thức $x^2 + 15x + 50$ (mét vuông).",
+          "correct": true
+        },
+        {
+          "text": "Chu vi mảnh đất là $2x + 15$ (mét).",
+          "correct": false
+        },
+        {
+          "text": "Chu vi mảnh đất là $4x + 30$ (mét).",
+          "correct": true
+        },
+        {
+          "text": "Khi $x=5$, diện tích mảnh đất là $100 m^2$.",
+          "correct": false
+        }
+      ],
+      "prizePerItem": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "true_false",
+      "q": "Cho hình chóp tứ giác đều S.ABCD, có cạnh đáy AB = 8cm, trung đoạn (chiều cao mặt bên) SH = 10cm (H là trung điểm CD).",
+      "statements": [
+        {
+          "text": "ABCD là hình vuông.",
+          "correct": true
+        },
+        {
+          "text": "Diện tích mặt đáy là $64cm^2$.",
+          "correct": true
+        },
+        {
+          "text": "Diện tích xung quanh là $160cm^2$.",
+          "correct": true
+        },
+        {
+          "text": "SH là chiều cao của hình chóp.",
+          "correct": false
+        }
+      ],
+      "prizePerItem": 0.25,
+      "solution": "",
+      "image": "https://i.postimg.cc/HkR0BCSD/h3.png"
+    },
+    {
+      "type": "true_false",
+      "q": "Cho hình chóp tam giác đều S.ABC, chiều cao hình chóp SO = 12cm, thể tích hình chóp là $100cm^3$.",
+      "statements": [
+        {
+          "text": "Mặt đáy ABC là tam giác đều.",
+          "correct": true
+        },
+        {
+          "text": "Diện tích mặt đáy ABC là $25cm^2$.",
+          "correct": true
+        },
+        {
+          "text": "Chiều cao của hình chóp là khoảng cách từ S đến tâm O của đáy.",
+          "correct": true
+        },
+        {
+          "text": "Thể tích được tính bằng $V = S_{day} \\times h$.",
+          "correct": false
+        }
+      ],
+      "prizePerItem": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "short_answer",
+      "q": "Một hộp quà hình chóp tứ giác đều có cạnh đáy 15cm và chiều cao 10cm. Tính thể tích của hộp quà đó (đơn vị $cm^3$).",
+      "correct": [
+        "750"
+      ],
+      "prize": 0.5,
+      "solution": ""
+    },
+    {
+      "type": "short_answer",
+      "q": "Cho hình chóp tam giác đều có diện tích xung quanh là $60cm^2$, chu vi đáy là $30cm$. Chiều cao một mặt bên (trung đoạn) của hình chóp là (đơn vị cm):",
+      "correct": [
+        "4"
+      ],
+      "prize": 0.5,
+      "solution": ""
+    },
+    {
+      "type": "short_answer",
+      "q": "Cho hình chóp tứ giác đều có thể tích $V = 200cm^3$, chiều cao $h = 6cm$. Tính diện tích mặt đáy của hình chóp (đơn vị $cm^2$).",
+      "correct": [
+        "100"
+      ],
+      "prize": 0.5,
+      "solution": ""
+    },
+    {
+      "type": "short_answer",
+      "q": "Một hình chóp tứ giác đều có diện tích đáy là $36cm^2$ và diện tích xung quanh gấp 3 lần diện tích đáy. Tính diện tích toàn phần của hình chóp đó (đơn vị $cm^2$).",
+      "correct": [
+        "144"
+      ],
+      "prize": 0.5,
+      "solution": ""
+    }
+  ]
+}
+
