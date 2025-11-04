@@ -1,33 +1,20 @@
 {
-  "metadata": {
-    "title": "TRẮC NGHIỆM TOÁN 9",
-    "examPeriod": "TUẦN 10",
-    "durationMinutes": 30,
-    "startTime": "2025-11-04T00:00:00+07:00",
-    "endTime": "2025-11-10T23:59:59+07:00"
-  },
+  "tieu_de": "ÔN TẬP TRẮC NGHIỆM TOÁN 8",
+  "dot_kiem_tra": "TUẦN 10",
+  "thoi_gian_lam_bai": 25,
+  "thoi_gian_bat_dau": "2025-11-03T07:00",
+  "thoi_gian_ket_thuc": "2025-11-08T12:00",
+  "googleSheetUrl": "https://script.google.com/macros/s/AKfycbwx60DanvfOVcFgRyRGOV6QsUNqO00eAqfi_m5f0Sr98MSArPd-mIt00vaDa2we8FlP/exec",
+  "mat_khau": "",
   "questions": [
     {
       "type": "multiple_choice",
-      "q": "Trong các biểu thức sau, biểu thức nào KHÔNG phải là đơn thức?",
+      "q": "Điều kiện xác định của phương trình $\\frac{1}{x-2} + \\frac{x}{x+3} = \\frac{5}{x}$ là",
       "a": [
-        "$5x^2y^3$",
-        "$-3xy$",
-        "$10$",
-        "$x + 2y$"
-      ],
-      "correct": 3,
-      "prize": 0.25,
-      "solution": ""
-    },
-    {
-      "type": "multiple_choice",
-      "q": "Giá trị của đa thức $P = 3x - 5y$ tại $x = -2$ và $y = -1$ là:",
-      "a": [
-        "1",
-        "-1",
-        "-11",
-        "11"
+        "$x \\neq 2 , x \\neq -3$",
+        "$x \\neq 2 , x \\neq -3 , x \\neq 0$",
+        "$x \\neq 2 , x \\neq 0$",
+        "$x \\neq -3 , x \\neq 0$"
       ],
       "correct": 1,
       "prize": 0.25,
@@ -35,25 +22,12 @@
     },
     {
       "type": "multiple_choice",
-      "q": "Giá trị của đa thức $Q = x^2 - 4x + 4$ tại $x = 2$ là:",
+      "q": "Tập nghiệm của phương trình $x^2(x^2-4)=0$ là",
       "a": [
-        "0",
-        "4",
-        "8",
-        "16"
-      ],
-      "correct": 0,
-      "prize": 0.25,
-      "solution": ""
-    },
-    {
-      "type": "multiple_choice",
-      "q": "Khai triển hằng đẳng thức $(x + 2y)^2$ ta được kết quả là:",
-      "a": [
-        "$x^2 + 2xy + 4y^2$",
-        "$x^2 + 4xy + 2y^2$",
-        "$x^2 + 4xy + 4y^2$",
-        "$x^2 - 4xy + 4y^2$"
+        "{0; 4}",
+        "{0; 2}",
+        "{0; 2; -2}",
+        "{2; -2}"
       ],
       "correct": 2,
       "prize": 0.25,
@@ -61,12 +35,25 @@
     },
     {
       "type": "multiple_choice",
-      "q": "Điền vào chỗ trống để được hằng đẳng thức đúng $x^2 - 6x + 9 = (\\dots)^2$",
+      "q": "Cặp số nào sau đây là nghiệm của hệ phương trình $\\left\\{ {\\begin{array}{*{20}{l}} {3x - y = 1}\\\\ {x + y = 3} \\end{array}} \\right.$",
       "a": [
-        "$x + 3$",
-        "$x - 3$",
-        "$x - 9$",
-        "$3 - x$"
+        "(2; 1)",
+        "(0; 3)",
+        "(1; 2)",
+        "(-1; 4)"
+      ],
+      "correct": 2,
+      "prize": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Nếu $x < y$ thì bất đẳng thức nào sau đây SAI?",
+      "a": [
+        "$x - 10 < y - 10$",
+        "$-5x > -5y$",
+        "$3x < 3y$",
+        "$x + 2 < y + 2$"
       ],
       "correct": 1,
       "prize": 0.25,
@@ -74,53 +61,12 @@
     },
     {
       "type": "multiple_choice",
-      "q": "Kết quả rút gọn biểu thức $(x - 2)(x^2 + 2x + 4)$ là:",
+      "q": "Khẳng định nào sau đây là SAI?",
       "a": [
-        "$x^3 + 8$",
-        "$x^3 - 8$",
-        "$x^3 + 2$",
-        "$x^3 - 2$"
-      ],
-      "correct": 1,
-      "prize": 0.25,
-      "solution": ""
-    },
-    {
-      "type": "multiple_choice",
-      "q": "Hình chóp tứ giác đều có mặt đáy là hình gì?",
-      "a": [
-        "Hình tam giác đều",
-        "Hình vuông",
-        "Hình chữ nhật",
-        "Hình thang cân"
-      ],
-      "correct": 1,
-      "prize": 0.25,
-      "solution": "",
-      "image": "https://i.postimg.cc/tTy4GppW/thu.png"
-    },
-    {
-      "type": "multiple_choice",
-      "q": "Hình chóp tam giác đều có bao nhiêu cạnh?",
-      "a": [
-        "3",
-        "4",
-        "5",
-        "6"
-      ],
-      "correct": 3,
-      "prize": 0.25,
-      "solution": "",
-      "image": "https://i.postimg.cc/7LP4spbs/h1.png"
-    },
-    {
-      "type": "multiple_choice",
-      "q": "Phân thức $\\frac{5x}{x+3}$ xác định khi nào?",
-      "a": [
-        "$x = 3$",
-        "$x \\neq 3$",
-        "$x = -3$",
-        "$x \\neq -3$"
+        "$sin 40^0 = cos 50^0$",
+        "$tan 15^0 = cot 75^0$",
+        "$cos 30^0 = sin 60^0$",
+        "$sin 70^0 = cos 70^0$"
       ],
       "correct": 3,
       "prize": 0.25,
@@ -128,12 +74,104 @@
     },
     {
       "type": "multiple_choice",
-      "q": "Kết quả phép tính $\\frac{3x}{x-y} - \\frac{3y}{x-y}$ là:",
+      "q": "Cho $\\Delta PQR$ vuông tại P, $\\widehat{Q} = \\alpha$. Khi đó tỉ số $\\frac{PR}{PQ}$ bằng",
       "a": [
-        "$\\frac{3(x-y)}{x-y}$",
-        "$3$",
-        "$\\frac{3x-3y}{(x-y)^2}$",
-        "$0$"
+        "$sin \\alpha$",
+        "$cos \\alpha$",
+        "$tan \\alpha$",
+        "$cot \\alpha$"
+      ],
+      "correct": 2,
+      "prize": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Cho $\\Delta ABC$ vuông tại A, biết AB = 6cm và $\\widehat{B}=60^0$. Độ dài BC là:",
+      "a": [
+        "$6\\sqrt{3}$ cm",
+        "$3$ cm",
+        "$12$ cm",
+        "$4\\sqrt{3}$ cm"
+      ],
+      "correct": 2,
+      "prize": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Một bức tường cao 3m. Người ta đặt một cái thang sao cho chân thang cách tường 1.5m. Góc tạo bởi thang và mặt đất là (làm tròn đến độ):",
+      "a": [
+        "60^0",
+        "30^0",
+        "63^0",
+        "27^0"
+      ],
+      "correct": 2,
+      "prize": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "true_false",
+      "q": "Cho $\\Delta ABC$ vuông tại A, đường cao AH. Biết AB = 5cm, AC = 12cm. Xét tính Đúng/Sai:",
+      "statements": [
+        {
+          "text": "$BC = 13cm$",
+          "correct": true
+        },
+        {
+          "text": "$sin B = \\frac{12}{13}$",
+          "correct": true
+        },
+        {
+          "text": "$cos B = \\frac{5}{13}$",
+          "correct": true
+        },
+        {
+          "text": "$AH = \\frac{13}{60}$cm",
+          "correct": false
+        }
+      ],
+      "prizePerItem": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "short_answer",
+      "q": "Hệ phương trình $\\left\\{ \\begin{array}{l} 2x - y = 3 \\\\ x + y = 3 \\end{array} \\right.$ có nghiệm $(x; y)$. Tính giá trị $x - y$.",
+      "correct": [
+        "1"
+      ],
+      "prize": 0.5,
+      "solution": ""
+    },
+    {
+      "type": "short_answer",
+      "q": "Cho tam giác ABC vuông tại A, đường cao AH. Biết $AB=9$cm, $BC=15$cm. Độ dài đường cao AH bằng:",
+      "correct": [
+        "7.2",
+        "7,2"
+      ],
+      "prize": 0.5,
+      "solution": ""
+    },
+    {
+      "type": "short_answer",
+      "q": "Cho $\\Delta MNP$ vuông tại M, $\\widehat{P}=30^0$ và MN = 6cm. Độ dài cạnh huyền NP bằng:",
+      "correct": [
+        "12",
+        "12cm"
+      ],
+      "prize": 0.5,
+      "solution": ""
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Bất phương trình $4x - 12 \\leq 0$ có nghiệm là",
+      "a": [
+        "$x \\geq 3$",
+        "$x \\leq 3$",
+        "$x \\leq -3$",
+        "$x \\geq -3$"
       ],
       "correct": 1,
       "prize": 0.25,
@@ -141,92 +179,62 @@
     },
     {
       "type": "multiple_choice",
-      "q": "Hình chóp tứ giác đều có độ dài cạnh đáy là 4cm, chiều cao mặt bên (trung đoạn) là 5cm. Diện tích xung quanh của hình chóp là:",
+      "q": "Phương trình $x + 3y = 2$ nhận cặp số nào sau đây làm nghiệm",
       "a": [
-        "$20cm^2$",
-        "$40cm^2$",
-        "$60cm^2$",
-        "$80cm^2$"
+        "(1; 1)",
+        "(2; 0)",
+        "(-1; 1)",
+        "(5; -1)"
       ],
-      "correct": 1,
+      "correct": 3,
       "prize": 0.25,
-      "solution": "",
-      "image": "https://i.postimg.cc/kGQhdgpm/h2.png"
+      "solution": ""
     },
     {
       "type": "multiple_choice",
-      "q": "Thể tích của hình chóp tam giác đều có diện tích đáy $S = 15cm^2$ và chiều cao $h = 6cm$ là:",
+      "q": "Cho $\\Delta ABC$ vuông tại A, $\\widehat{C} = \\gamma$. Khi đó tỉ số $\\frac{AC}{BC}$ bằng",
       "a": [
-        "$30cm^3$",
-        "$90cm^3$",
-        "$45cm^3$",
-        "$15cm^3$"
+        "$sin \\gamma$",
+        "$cos \\gamma$",
+        "$tan \\gamma$",
+        "$cot \\gamma$"
       ],
-      "correct": 0,
+      "correct": 1,
+      "prize": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Cho $\\Delta ABC$ vuông tại A, biết AB = 10cm và $tan B = 2$. Độ dài cạnh AC là:",
+      "a": [
+        "5cm",
+        "10cm",
+        "20cm",
+        "$10\\sqrt{5}$cm"
+      ],
+      "correct": 2,
       "prize": 0.25,
       "solution": ""
     },
     {
       "type": "true_false",
-      "q": "Cho biểu thức $A = (x+1)^2 - (x-1)^2$. Xét tính Đúng/Sai của các nội dung sau:",
+      "q": "Xét phương trình $\\frac{1}{x} + \\frac{1}{x-1} = \\frac{1}{x(x-1)}$. Đánh giá tính Đúng/Sai:",
       "statements": [
         {
-          "text": "Rút gọn biểu thức trên ta được $A = 4x$",
+          "text": "Điều kiện xác định là $x \\neq 0$ và $x \\neq 1$.",
           "correct": true
         },
         {
-          "text": "Với $x=2$ thì biểu thức nhận giá trị bằng $8$",
+          "text": "Quy đồng mẫu số ta được $(x-1) + x = 1$.",
           "correct": true
         },
         {
-          "text": "Với $x=-1$ thì biểu thức nhận giá trị bằng $4$",
+          "text": "Phương trình có nghiệm $x=1$.",
           "correct": false
         },
         {
-          "text": "Để biểu thức nhận giá trị bằng $0$ thì $x=0$",
+          "text": "Nghiệm $x=1$ không thỏa mãn ĐKXĐ.",
           "correct": true
-        }
-      ],
-      "prizePerItem": 0.25,
-      "solution": ""
-    },
-    {
-      "type": "short_answer",
-      "q": "Giá trị $m$ để biểu thức $x^2 - 10x + m$ là bình phương của một hiệu là:",
-      "correct": [
-        "25"
-      ],
-      "prize": 0.5,
-      "solution": ""
-    },
-    {
-      "type": "short_answer",
-      "q": "Giá trị của biểu thức $A = x(x+y) - y(x+y)$ tại $x = 10; y = 5$ là:",
-      "correct": [
-        "75"
-      ],
-      "prize": 0.5,
-      "solution": ""
-    },
-    {
-      "type": "true_false",
-      "q": "Một mảnh đất hình chữ nhật có chiều dài $(x+10)$ mét và chiều rộng $(x+5)$ mét (với $x > 0$).",
-      "statements": [
-        {
-          "text": "Diện tích mảnh đất được biểu thị bằng đa thức $x^2 + 15x + 50$ (mét vuông).",
-          "correct": true
-        },
-        {
-          "text": "Chu vi mảnh đất là $2x + 15$ (mét).",
-          "correct": false
-        },
-        {
-          "text": "Chu vi mảnh đất là $4x + 30$ (mét).",
-          "correct": true
-        },
-        {
-          "text": "Khi $x=5$, diện tích mảnh đất là $100 m^2$.",
-          "correct": false
         }
       ],
       "prizePerItem": 0.25,
@@ -234,47 +242,22 @@
     },
     {
       "type": "true_false",
-      "q": "Cho hình chóp tứ giác đều S.ABCD, có cạnh đáy AB = 8cm, trung đoạn (chiều cao mặt bên) SH = 10cm (H là trung điểm CD).",
+      "q": "Cho $\\alpha$ và $\\beta$ là hai góc phụ nhau. Xét tính Đúng/Sai:",
       "statements": [
         {
-          "text": "ABCD là hình vuông.",
+          "text": "$sin \\alpha = cos \\beta$",
           "correct": true
         },
         {
-          "text": "Diện tích mặt đáy là $64cm^2$.",
-          "correct": true
-        },
-        {
-          "text": "Diện tích xung quanh là $160cm^2$.",
-          "correct": true
-        },
-        {
-          "text": "SH là chiều cao của hình chóp.",
+          "text": "$tan \\alpha = tan \\beta$",
           "correct": false
-        }
-      ],
-      "prizePerItem": 0.25,
-      "solution": "",
-      "image": "https://i.postimg.cc/HkR0BCSD/h3.png"
-    },
-    {
-      "type": "true_false",
-      "q": "Cho hình chóp tam giác đều S.ABC, chiều cao hình chóp SO = 12cm, thể tích hình chóp là $100cm^3$.",
-      "statements": [
+        },
         {
-          "text": "Mặt đáy ABC là tam giác đều.",
+          "text": "$cot \\alpha = tan \\beta$",
           "correct": true
         },
         {
-          "text": "Diện tích mặt đáy ABC là $25cm^2$.",
-          "correct": true
-        },
-        {
-          "text": "Chiều cao của hình chóp là khoảng cách từ S đến tâm O của đáy.",
-          "correct": true
-        },
-        {
-          "text": "Thể tích được tính bằng $V = S_{day} \\times h$.",
+          "text": "$cos \\alpha = cos \\beta$",
           "correct": false
         }
       ],
@@ -283,36 +266,38 @@
     },
     {
       "type": "short_answer",
-      "q": "Một hộp quà hình chóp tứ giác đều có cạnh đáy 15cm và chiều cao 10cm. Tính thể tích của hộp quà đó (đơn vị $cm^3$).",
+      "q": "Nghiệm của bất phương trình $15 - 3x > 0$ là:",
       "correct": [
-        "750"
+        "x < 5",
+        "x<5"
       ],
       "prize": 0.5,
       "solution": ""
     },
     {
       "type": "short_answer",
-      "q": "Cho hình chóp tam giác đều có diện tích xung quanh là $60cm^2$, chu vi đáy là $30cm$. Chiều cao một mặt bên (trung đoạn) của hình chóp là (đơn vị cm):",
+      "q": "Hệ phương trình $\\left\\{ \\begin{array}{l} 4x + y = 9 \\\\ x - y = 1 \\end{array} \\right.$ có nghiệm $(x; y)$. Tính $x.y$.",
       "correct": [
-        "4"
+        "2"
       ],
       "prize": 0.5,
       "solution": ""
     },
     {
       "type": "short_answer",
-      "q": "Cho hình chóp tứ giác đều có thể tích $V = 200cm^3$, chiều cao $h = 6cm$. Tính diện tích mặt đáy của hình chóp (đơn vị $cm^2$).",
+      "q": "Cho $\\Delta ABC$ vuông tại A, đường cao AH. Biết $AH=6$, $BH=4$. Độ dài $CH$ bằng:",
       "correct": [
-        "100"
+        "9"
       ],
       "prize": 0.5,
       "solution": ""
     },
     {
       "type": "short_answer",
-      "q": "Một hình chóp tứ giác đều có diện tích đáy là $36cm^2$ và diện tích xung quanh gấp 3 lần diện tích đáy. Tính diện tích toàn phần của hình chóp đó (đơn vị $cm^2$).",
+      "q": "Một máy bay đang bay ở độ cao 10km. Khi hạ cánh, góc hạ cánh là $3^0$ so với phương ngang. Hỏi máy bay còn cách sân bay bao xa (theo phương ngang)? (Làm tròn 1 chữ số thập phân)",
       "correct": [
-        "144"
+        "190.8",
+        "190.8km"
       ],
       "prize": 0.5,
       "solution": ""
