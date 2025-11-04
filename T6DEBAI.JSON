@@ -1,7 +1,11 @@
 {
-  "quizName": "ÔN TẬP TOÁN 6 GIỮA HỌC KỲ I (ĐỀ 04)",
-  "quizDuration": 30,
-  "googleSheetUrl": "https://script.google.com/macros/s/AKfycbx9rcxjMigcf4PUVTEgZ341goT_6cg2LbG0AIP9-1YadLYBxiFZ2A9B1Wn_hF1lTMVPDw/exec",
+  "metadata": {
+    "title": "TRẮC NGHIỆM TOÁN 6",
+    "examPeriod": "TUẦN 10",
+    "durationMinutes": 30,
+    "startTime": "2025-11-04T00:00:00+07:00",
+    "endTime": "2025-11-10T23:59:59+07:00"
+  },
   "questions": [
     {
       "type": "multiple_choice",
