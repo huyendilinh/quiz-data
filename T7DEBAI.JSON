@@ -1,16 +1,20 @@
 {
-  "quizName": "ÔN TẬP TOÁN 7 GIỮA HỌC KỲ I (ĐỀ 04)",
-  "quizDuration": 25,
-  "googleSheetUrl": "https://script.google.com/macros/s/AKfycbzhfU4xwDPzfvGcEZXxYUjUhdT7vbaK62Zy3fYpZmF1EUDi0tElBijJzXNO7Hx_HB34/exec",
+  "metadata": {
+    "title": "TRẮC NGHIỆM TOÁN 7",
+    "examPeriod": "TUẦN 10",
+    "durationMinutes": 30,
+    "startTime": "2025-11-04T00:00:00+07:00",
+    "endTime": "2025-11-10T23:59:59+07:00"
+  },
   "questions": [
     {
       "type": "multiple_choice",
-      "q": "Tập hợp các số NGUYÊN ký hiệu là",
+      "q": "Trong các biểu thức sau, biểu thức nào KHÔNG phải là đơn thức?",
       "a": [
-        "I",
-        "Q",
-        "N",
-        "Z"
+        "$5x^2y^3$",
+        "$-3xy$",
+        "$10$",
+        "$x + 2y$"
       ],
       "correct": 3,
       "prize": 0.25,
@@ -18,12 +22,25 @@
     },
     {
       "type": "multiple_choice",
-      "q": "Kết quả phép tính $\\frac{1}{2}-\\frac{2}{3}$ bằng",
+      "q": "Giá trị của đa thức $P = 3x - 5y$ tại $x = -2$ và $y = -1$ là:",
       "a": [
-        "$\\frac{-1}{6}$",
-        "$\\frac{1}{6}$",
-        "$\\frac{-1}{1}$",
-        "$\\frac{1}{5}$"
+        "1",
+        "-1",
+        "-11",
+        "11"
+      ],
+      "correct": 1,
+      "prize": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Giá trị của đa thức $Q = x^2 - 4x + 4$ tại $x = 2$ là:",
+      "a": [
+        "0",
+        "4",
+        "8",
+        "16"
       ],
       "correct": 0,
       "prize": 0.25,
@@ -31,11 +48,91 @@
     },
     {
       "type": "multiple_choice",
-      "q": "Số đối của số hữu tỉ $a$ là",
+      "q": "Khai triển hằng đẳng thức $(x + 2y)^2$ ta được kết quả là:",
       "a": [
-        "$a$",
-        "$-a$",
-        "$\\frac{1}{a}$",
+        "$x^2 + 2xy + 4y^2$",
+        "$x^2 + 4xy + 2y^2$",
+        "$x^2 + 4xy + 4y^2$",
+        "$x^2 - 4xy + 4y^2$"
+      ],
+      "correct": 2,
+      "prize": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Điền vào chỗ trống để được hằng đẳng thức đúng $x^2 - 6x + 9 = (\\dots)^2$",
+      "a": [
+        "$x + 3$",
+        "$x - 3$",
+        "$x - 9$",
+        "$3 - x$"
+      ],
+      "correct": 1,
+      "prize": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Kết quả rút gọn biểu thức $(x - 2)(x^2 + 2x + 4)$ là:",
+      "a": [
+        "$x^3 + 8$",
+        "$x^3 - 8$",
+        "$x^3 + 2$",
+        "$x^3 - 2$"
+      ],
+      "correct": 1,
+      "prize": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Hình chóp tứ giác đều có mặt đáy là hình gì?",
+      "a": [
+        "Hình tam giác đều",
+        "Hình vuông",
+        "Hình chữ nhật",
+        "Hình thang cân"
+      ],
+      "correct": 1,
+      "prize": 0.25,
+      "solution": "",
+      "image": "https://i.postimg.cc/tTy4GppW/thu.png"
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Hình chóp tam giác đều có bao nhiêu cạnh?",
+      "a": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 3,
+      "prize": 0.25,
+      "solution": "",
+      "image": "https://i.postimg.cc/7LP4spbs/h1.png"
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Phân thức $\\frac{5x}{x+3}$ xác định khi nào?",
+      "a": [
+        "$x = 3$",
+        "$x \\neq 3$",
+        "$x = -3$",
+        "$x \\neq -3$"
+      ],
+      "correct": 3,
+      "prize": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Kết quả phép tính $\\frac{3x}{x-y} - \\frac{3y}{x-y}$ là:",
+      "a": [
+        "$\\frac{3(x-y)}{x-y}$",
+        "$3$",
+        "$\\frac{3x-3y}{(x-y)^2}$",
         "$0$"
       ],
       "correct": 1,
@@ -44,211 +141,49 @@
     },
     {
       "type": "multiple_choice",
-      "q": "Các mặt của hình hộp chữ nhật đều là",
+      "q": "Hình chóp tứ giác đều có độ dài cạnh đáy là 4cm, chiều cao mặt bên (trung đoạn) là 5cm. Diện tích xung quanh của hình chóp là:",
       "a": [
-        "Hình vuông",
-        "Hình chữ nhật",
-        "Hình thoi",
-        "Hình thang cân"
+        "$20cm^2$",
+        "$40cm^2$",
+        "$60cm^2$",
+        "$80cm^2$"
       ],
       "correct": 1,
       "prize": 0.25,
-      "solution": ""
+      "solution": "",
+      "image": "https://i.postimg.cc/kGQhdgpm/h2.png"
     },
     {
       "type": "multiple_choice",
-      "q": "Các MẶT BÊN của hình lăng trụ đứng TAM GIÁC là hình",
+      "q": "Thể tích của hình chóp tam giác đều có diện tích đáy $S = 15cm^2$ và chiều cao $h = 6cm$ là:",
       "a": [
-        "Tam giác",
-        "Hình chữ nhật",
-        "Hình vuông",
-        "Hình thoi"
-      ],
-      "correct": 1,
-      "prize": 0.25,
-      "solution": ""
-    },
-    {
-      "type": "multiple_choice",
-      "q": "Giá trị $(-2)^4$ bằng",
-      "a": [
-        "$-8$",
-        "$-16$",
-        "$16$",
-        "$8$"
-      ],
-      "correct": 2,
-      "prize": 0.25,
-      "solution": ""
-    },
-    {
-      "type": "multiple_choice",
-      "q": "Một hình hộp chữ nhật có ba kích thước là $a, b, c$. Công thức tính thể tích là:",
-      "a": [
-        "$V=a.b.c$",
-        "$V=a+b+c$",
-        "$V=2(a+b).c$",
-        "$V=a.b+b.c+c.a$"
+        "$30cm^3$",
+        "$90cm^3$",
+        "$45cm^3$",
+        "$15cm^3$"
       ],
       "correct": 0,
       "prize": 0.25,
       "solution": ""
     },
     {
-      "type": "multiple_choice",
-      "q": "Một hình hộp chữ nhật có kích thước đáy là $a, b$, chiều cao là $c$. Công thức tính diện tích xung quanh là:",
-      "a": [
-        "$S_{xq}=a.b.c$",
-        "$S_{xq}=a.b$",
-        "$S_{xq}=2(a+b).c$",
-        "$S_{xq}=2(a.b+b.c+c.a)$"
-      ],
-      "correct": 2,
-      "prize": 0.25,
-      "solution": ""
-    },
-    {
-      "type": "multiple_choice",
-      "q": "Kết quả bỏ ngoặc của biểu thức: $A + (B - C + D)$ là",
-      "a": [
-        "$A+B-C+D$",
-        "$A-B+C-D$",
-        "$A+B+C+D$",
-        "$A+B-C-D$"
-      ],
-      "correct": 0,
-      "prize": 0.25,
-      "solution": ""
-    },
-    {
-      "type": "multiple_choice",
-      "q": "Kết quả của phép tính $\\left( 5^2 \\right)^3$ viết dưới dạng lũy thừa là:",
-      "a": [
-        "$5^5$",
-        "$10^3$",
-        "$5^{8}$",
-        "$5^6$"
-      ],
-      "correct": 3,
-      "prize": 0.25,
-      "solution": ""
-    },
-    {
-      "type": "multiple_choice",
-      "q": "Biết $Ot$ là tia phân giác của $\\widehat{xOy}$, biết $\\widehat{xOy}=100^0$. $\\widehat{xOt}$ bằng:",
-      "a": [
-        "$100^0$",
-        "$200^0$",
-        "$50^0$",
-        "$25^0$"
-      ],
-      "correct": 2,
-      "prize": 0.25,
-      "solution": ""
-    },
-    {
-      "type": "multiple_choice",
-      "q": "Biết $Ot$ là tia phân giác của $\\widehat{xOy}$, biết $\\widehat{xOt}=40^0$. $\\widehat{xOy}$ bằng:",
-      "a": [
-        "$20^0$",
-        "$80^0$",
-        "$40^0$",
-        "$120^0$"
-      ],
-      "correct": 1,
-      "prize": 0.25,
-      "solution": ""
-    },
-    {
       "type": "true_false",
-      "q": "Một hình hộp chữ nhật có kích thước đáy là 3cm và 4cm, chiều cao 5cm",
+      "q": "Cho biểu thức $A = (x+1)^2 - (x-1)^2$. Xét tính Đúng/Sai của các nội dung sau:",
       "statements": [
         {
-          "text": "Chu vi đáy bằng 7cm",
+          "text": "Rút gọn biểu thức trên ta được $A = 4x$",
+          "correct": true
+        },
+        {
+          "text": "Với $x=2$ thì biểu thức nhận giá trị bằng $8$",
+          "correct": true
+        },
+        {
+          "text": "Với $x=-1$ thì biểu thức nhận giá trị bằng $4$",
           "correct": false
         },
         {
-          "text": "Diện tích đáy bằng 12$cm^2$",
-          "correct": true
-        },
-        {
-          "text": "Diện tích xung quanh bằng 70$cm^2$",
-          "correct": true
-        },
-        {
-          "text": "Thể tích bằng 60$cm^3$",
-          "correct": true
-        }
-      ],
-      "prizePerItem": 0.25,
-      "solution": ""
-    },
-    {
-      "type": "true_false",
-      "q": "Một hình lăng trụ đứng đáy là tam giác vuông có kích thước hai cạnh góc vuông là 3cm và 4cm, cạnh còn lại 5cm. Biết chiều cao của hình lăng trụ là 10cm.",
-      "statements": [
-        {
-          "text": "Diện tích một mặt đáy là $6cm^2$",
-          "correct": true
-        },
-        {
-          "text": "Diện tích xung quanh lăng trụ là: $120cm^2$",
-          "correct": true
-        },
-        {
-          "text": "Diện tích toàn phần lăng trụ là: $130cm^2$",
-          "correct": false
-        },
-        {
-          "text": "Thể tích lăng trụ là: $60cm^3$",
-          "correct": true
-        }
-      ],
-      "prizePerItem": 0.25,
-      "solution": ""
-    },
-    {
-      "type": "true_false",
-      "q": "Xét bài toán tìm x, biết: $\\frac{1}{2}+\\left( x-\\frac{1}{2} \\right)=100^0$",
-      "statements": [
-        {
-          "text": "Bước 1: Bỏ ngoặc, tính lũy thừa ta được: $\\frac{1}{2} + x - \\frac{1}{2}=0$",
-          "correct": false
-        },
-        {
-          "text": "Bước 2: Chuyển vị trí $\\frac{1}{2}$ ta được: $\\frac{1}{2} -\\frac{1}{2}+ x =1$",
-          "correct": true
-        },
-        {
-          "text": "Bước 3: Rút gọn $\\frac{1}{2}-\\frac{1}{2}$ ta được: $x =1$",
-          "correct": true
-        },
-        {
-          "text": "Bước 4: Vậy $x=1$",
-          "correct": true
-        }
-      ],
-      "prizePerItem": 0.25,
-      "solution": ""
-    },
-    {
-      "type": "true_false",
-      "q": "Một cửa hàng giảm giá 20% cho một sản phẩm. Sau đó, cửa hàng giảm thêm 10% trên giá đã giảm cho khách hàng thân thiết.",
-      "statements": [
-        {
-          "text": "Bước 1. Gọi x là giá ban đầu, giá khi giảm 20% là 80%.x",
-          "correct": true
-        },
-        {
-          "text": "Bước 2: Giá khi giảm tiếp 10% là 90%.(80%.x)",
-          "correct": true
-        },
-        {
-          "text": "Bước 3: Tổng cộng, khách hàng thân thiết được giảm 30% so với giá ban đầu.",
-          "correct": false
-        },
-        {
-          "text": "Bước 4: Giá cuối cùng khách hàng phải trả là 72%.x",
+          "text": "Để biểu thức nhận giá trị bằng $0$ thì $x=0$",
           "correct": true
         }
       ],
@@ -257,55 +192,127 @@
     },
     {
       "type": "short_answer",
-      "q": "Một chiếc TV được giảm giá 15%. Nếu khách hàng thanh toán bằng thẻ tín dụng, họ sẽ được giảm thêm 2% trên giá đã giảm. Anh Nam đã mua và thanh toán bằng thẻ, trả số tiền là 8.330.000 đồng. Hỏi giá niêm yết của TV là bao nhiêu (ĐƠN VỊ nghìn đồng)?",
+      "q": "Giá trị $m$ để biểu thức $x^2 - 10x + m$ là bình phương của một hiệu là:",
       "correct": [
-        "10000"
+        "25"
       ],
       "prize": 0.5,
       "solution": ""
     },
     {
       "type": "short_answer",
-      "q": "Kết quả phép tính $\\frac{3}{4}.\\frac{9}{13}+\\frac{3}{4}.\\frac{4}{13}=$ (Ghi số thập phân)",
+      "q": "Giá trị của biểu thức $A = x(x+y) - y(x+y)$ tại $x = 10; y = 5$ là:",
       "correct": [
-        "0,75",
-        "0.75"
+        "75"
+      ],
+      "prize": 0.5,
+      "solution": ""
+    },
+    {
+      "type": "true_false",
+      "q": "Một mảnh đất hình chữ nhật có chiều dài $(x+10)$ mét và chiều rộng $(x+5)$ mét (với $x > 0$).",
+      "statements": [
+        {
+          "text": "Diện tích mảnh đất được biểu thị bằng đa thức $x^2 + 15x + 50$ (mét vuông).",
+          "correct": true
+        },
+        {
+          "text": "Chu vi mảnh đất là $2x + 15$ (mét).",
+          "correct": false
+        },
+        {
+          "text": "Chu vi mảnh đất là $4x + 30$ (mét).",
+          "correct": true
+        },
+        {
+          "text": "Khi $x=5$, diện tích mảnh đất là $100 m^2$.",
+          "correct": false
+        }
+      ],
+      "prizePerItem": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "true_false",
+      "q": "Cho hình chóp tứ giác đều S.ABCD, có cạnh đáy AB = 8cm, trung đoạn (chiều cao mặt bên) SH = 10cm (H là trung điểm CD).",
+      "statements": [
+        {
+          "text": "ABCD là hình vuông.",
+          "correct": true
+        },
+        {
+          "text": "Diện tích mặt đáy là $64cm^2$.",
+          "correct": true
+        },
+        {
+          "text": "Diện tích xung quanh là $160cm^2$.",
+          "correct": true
+        },
+        {
+          "text": "SH là chiều cao của hình chóp.",
+          "correct": false
+        }
+      ],
+      "prizePerItem": 0.25,
+      "solution": "",
+      "image": "https://i.postimg.cc/HkR0BCSD/h3.png"
+    },
+    {
+      "type": "true_false",
+      "q": "Cho hình chóp tam giác đều S.ABC, chiều cao hình chóp SO = 12cm, thể tích hình chóp là $100cm^3$.",
+      "statements": [
+        {
+          "text": "Mặt đáy ABC là tam giác đều.",
+          "correct": true
+        },
+        {
+          "text": "Diện tích mặt đáy ABC là $25cm^2$.",
+          "correct": true
+        },
+        {
+          "text": "Chiều cao của hình chóp là khoảng cách từ S đến tâm O của đáy.",
+          "correct": true
+        },
+        {
+          "text": "Thể tích được tính bằng $V = S_{day} \\times h$.",
+          "correct": false
+        }
+      ],
+      "prizePerItem": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "short_answer",
+      "q": "Một hộp quà hình chóp tứ giác đều có cạnh đáy 15cm và chiều cao 10cm. Tính thể tích của hộp quà đó (đơn vị $cm^3$).",
+      "correct": [
+        "750"
       ],
       "prize": 0.5,
       "solution": ""
     },
     {
       "type": "short_answer",
-      "q": "Tìm $x$, biết: $5-\\left( x + 2\\right)=3^0$. $x=$",
+      "q": "Cho hình chóp tam giác đều có diện tích xung quanh là $60cm^2$, chu vi đáy là $30cm$. Chiều cao một mặt bên (trung đoạn) của hình chóp là (đơn vị cm):",
       "correct": [
-        "2"
+        "4"
       ],
       "prize": 0.5,
       "solution": ""
     },
     {
       "type": "short_answer",
-      "q": "Một hình lăng trụ đứng đáy là tam giác vuông có kích thước hai cạnh góc vuông là 5cm và 12cm. Biết chiều cao của hình lăng trụ là 8cm, Thể tích lăng trụ đứng bằng (Chỉ ghi kết quả, không ghi đơn vị)",
+      "q": "Cho hình chóp tứ giác đều có thể tích $V = 200cm^3$, chiều cao $h = 6cm$. Tính diện tích mặt đáy của hình chóp (đơn vị $cm^2$).",
       "correct": [
-        "240"
+        "100"
       ],
       "prize": 0.5,
       "solution": ""
     },
     {
       "type": "short_answer",
-      "q": "Một hộp quà dạng hình hộp chữ nhật có kích thước đáy là 6cm và 5cm, chiều cao 10cm. Tính diện tích giấy cần dùng để làm hộp (diện tích toàn phần): (Chỉ ghi kết quả, không ghi đơn vị)",
+      "q": "Một hình chóp tứ giác đều có diện tích đáy là $36cm^2$ và diện tích xung quanh gấp 3 lần diện tích đáy. Tính diện tích toàn phần của hình chóp đó (đơn vị $cm^2$).",
       "correct": [
-        "280"
-      ],
-      "prize": 0.5,
-      "solution": ""
-    },
-    {
-      "type": "short_answer",
-      "q": "Kết quả của phép tính $2,5 +\\frac{1}{4}-\\frac{3}{4}$ bằng:",
-      "correct": [
-        "2"
+        "144"
       ],
       "prize": 0.5,
       "solution": ""
