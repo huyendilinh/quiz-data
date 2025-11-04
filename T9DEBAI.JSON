@@ -1,10 +1,10 @@
 {
   "tieu_de": "ÔN TẬP TRẮC NGHIỆM TOÁN 9",
-  "dot_kiem_tra": "TUẦN 10",
+  "dot_kiem_tra": "TUẦN 09",
   "thoi_gian_lam_bai": 25,
   "thoi_gian_bat_dau": "2025-11-03T07:00",
   "thoi_gian_ket_thuc": "2025-11-08T12:00",
-  "googleSheetUrl": "https://script.google.com/macros/s/AKfycbwx60DanvfOVcFgRyRGOV6QsUNqO00eAqfi_m5f0Sr98MSArPd-mIt00vaDa2we8FlP/exec",
+  "googleSheetUrl": "https://script.google.com/macros/s/AKfycbwv8WOQEgEvwKDJP5VK0p4PA1-GgRj2ES2_3u0T4wpmNeVhQz-GicvJKEd7YwQC-RW-fQ/exec",
   "mat_khau": "",
   "questions": [
     {
@@ -18,7 +18,8 @@
       ],
       "correct": 1,
       "prize": 0.25,
-      "solution": ""
+      "solution": "",
+      "image": ""
     },
     {
       "type": "multiple_choice",
@@ -31,7 +32,8 @@
       ],
       "correct": 2,
       "prize": 0.25,
-      "solution": ""
+      "solution": "",
+      "image": ""
     },
     {
       "type": "multiple_choice",
@@ -44,7 +46,8 @@
       ],
       "correct": 2,
       "prize": 0.25,
-      "solution": ""
+      "solution": "",
+      "image": ""
     },
     {
       "type": "multiple_choice",
@@ -57,7 +60,8 @@
       ],
       "correct": 1,
       "prize": 0.25,
-      "solution": ""
+      "solution": "",
+      "image": ""
     },
     {
       "type": "multiple_choice",
@@ -70,7 +74,8 @@
       ],
       "correct": 3,
       "prize": 0.25,
-      "solution": ""
+      "solution": "",
+      "image": ""
     },
     {
       "type": "multiple_choice",
@@ -83,7 +88,8 @@
       ],
       "correct": 2,
       "prize": 0.25,
-      "solution": ""
+      "solution": "",
+      "image": ""
     },
     {
       "type": "multiple_choice",
@@ -96,7 +102,8 @@
       ],
       "correct": 2,
       "prize": 0.25,
-      "solution": ""
+      "solution": "",
+      "image": ""
     },
     {
       "type": "multiple_choice",
@@ -109,7 +116,8 @@
       ],
       "correct": 2,
       "prize": 0.25,
-      "solution": ""
+      "solution": "",
+      "image": ""
     },
     {
       "type": "true_false",
@@ -133,7 +141,8 @@
         }
       ],
       "prizePerItem": 0.25,
-      "solution": ""
+      "solution": "",
+      "image": ""
     },
     {
       "type": "short_answer",
@@ -142,7 +151,8 @@
         "1"
       ],
       "prize": 0.5,
-      "solution": ""
+      "solution": "",
+      "image": ""
     },
     {
       "type": "short_answer",
@@ -152,7 +162,8 @@
         "7,2"
       ],
       "prize": 0.5,
-      "solution": ""
+      "solution": "",
+      "image": "https://i.postimg.cc/vBM626mb/h6.png"
     },
     {
       "type": "short_answer",
@@ -162,7 +173,8 @@
         "12cm"
       ],
       "prize": 0.5,
-      "solution": ""
+      "solution": "",
+      "image": ""
     },
     {
       "type": "multiple_choice",
@@ -175,7 +187,8 @@
       ],
       "correct": 1,
       "prize": 0.25,
-      "solution": ""
+      "solution": "",
+      "image": ""
     },
     {
       "type": "multiple_choice",
@@ -188,7 +201,8 @@
       ],
       "correct": 3,
       "prize": 0.25,
-      "solution": ""
+      "solution": "",
+      "image": ""
     },
     {
       "type": "multiple_choice",
@@ -201,7 +215,8 @@
       ],
       "correct": 1,
       "prize": 0.25,
-      "solution": ""
+      "solution": "",
+      "image": ""
     },
     {
       "type": "multiple_choice",
@@ -214,7 +229,8 @@
       ],
       "correct": 2,
       "prize": 0.25,
-      "solution": ""
+      "solution": "",
+      "image": ""
     },
     {
       "type": "true_false",
@@ -238,7 +254,8 @@
         }
       ],
       "prizePerItem": 0.25,
-      "solution": ""
+      "solution": "",
+      "image": ""
     },
     {
       "type": "true_false",
@@ -262,7 +279,8 @@
         }
       ],
       "prizePerItem": 0.25,
-      "solution": ""
+      "solution": "",
+      "image": ""
     },
     {
       "type": "short_answer",
@@ -272,7 +290,8 @@
         "x<5"
       ],
       "prize": 0.5,
-      "solution": ""
+      "solution": "",
+      "image": ""
     },
     {
       "type": "short_answer",
@@ -281,7 +300,8 @@
         "2"
       ],
       "prize": 0.5,
-      "solution": ""
+      "solution": "",
+      "image": ""
     },
     {
       "type": "short_answer",
@@ -290,17 +310,18 @@
         "9"
       ],
       "prize": 0.5,
-      "solution": ""
+      "solution": "",
+      "image": "https://i.postimg.cc/d0fx8wQC/h5.png"
     },
     {
       "type": "short_answer",
-      "q": "Một máy bay đang bay ở độ cao 10km. Khi hạ cánh, góc hạ cánh là $3^0$ so với phương ngang. Hỏi máy bay còn cách sân bay bao xa (theo phương ngang)? (Làm tròn 1 chữ số thập phân)",
+      "q": "Một máy bay đang bay ở độ cao 10km. Khi hạ cánh, góc hạ cánh là $3^0$ so với phương ngang. Hỏi máy bay còn cách sân bay bao xa (theo phương ngang)? (Làm tròn đến hàng đơn vị)",
       "correct": [
-        "190.8",
-        "190.8km"
+        "191"
       ],
       "prize": 0.5,
-      "solution": ""
+      "solution": "",
+      "image": "https://i.postimg.cc/VL40GNx7/h4.png"
     }
   ]
 }
