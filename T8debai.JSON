@@ -4,7 +4,7 @@
   "thoi_gian_lam_bai": 25,
   "thoi_gian_bat_dau": "2025-11-03T07:00",
   "thoi_gian_ket_thuc": "2025-11-08T12:00",
-  "googleSheetUrl": "https://script.google.com/macros/s/AKfycbxuBAw86Ovvyj3zNAZJwEVsRuZ-1ye8ItyDq15HIKqKHyh_93tWmlu9DW7eOQ-uHNAj/exec",
+  "googleSheetUrl": "https://script.google.com/macros/s/AKfycbziKVdpjF5D6Rxd1TElpp3FPW-ETFeI8Hgee66AXtAPxoqw0QmomFZwSPxOVDpGnydZ/exec",
   "mat_khau": "T10@T801",
   "questions": [
     {
@@ -319,3 +319,4 @@
     }
   ]
 }
+
