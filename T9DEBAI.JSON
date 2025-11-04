@@ -109,10 +109,10 @@
       "type": "multiple_choice",
       "q": "Một bức tường cao 3m. Người ta đặt một cái thang sao cho chân thang cách tường 1.5m. Góc tạo bởi thang và mặt đất là (làm tròn đến độ):",
       "a": [
-        "60^0",
-        "30^0",
-        "63^0",
-        "27^0"
+        "$60^0$",
+        "$30^0$",
+        "$63^0$",
+        "$27^0$"
       ],
       "correct": 2,
       "prize": 0.25,
