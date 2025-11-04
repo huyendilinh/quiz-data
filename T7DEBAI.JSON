@@ -63,10 +63,10 @@
       "type": "multiple_choice",
       "q": "Hai MẶT ĐÁY của hình lăng trụ đứng TỨ GIÁC là",
       "a": [
-        "Hai hình chữ nhật bằng nhau",
-        "Hai hình thang bằng nhau",
-        "Hai tứ giác bằng nhau",
-        "Hai hình vuông bằng nhau"
+        "Hai hình chữ nhật có diện tích bằng nhau",
+        "Hai hình thang có diện tích bằng nhau",
+        "Hai tứ giác có diện tích bằng nhau",
+        "Hai hình vuông có diện tích bằng nhau"
       ],
       "correct": 2,
       "prize": 0.25,
