@@ -1,0 +1,303 @@
+{
+  "quizName": "TRẮC NGHIỆM TOÁN 9 GIỮA KỲ I (ĐỀ 04)",
+  "quizDuration": 25,
+  "googleSheetUrl": "https://script.google.com/macros/s/AKfycby8ww8ilIETe7l1HE_6VU_08JZwL4xHsNsmhhJTnsobVGJ6lB1HpPSvwmmMbAto8ou4/exec",
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "q": "Điều kiện xác định của phương trình $\\frac{2x}{x+1} = \\frac{1}{x(x-3)}$ là",
+      "a": [
+        "$x \\neq -1$",
+        "$x \\neq 0 , x \\neq 3$",
+        "$x \\neq -1 , x \\neq 0 , x \\neq 3$",
+        "$x \\neq -1 , x \\neq 0$"
+      ],
+      "correct": 2,
+      "prize": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Tập nghiệm của phương trình $(x-2)(x^2-25)=0$ là",
+      "a": [
+        "{2; 25}",
+        "{2; 5}",
+        "{-2; 5; -5}",
+        "{2; 5; -5}"
+      ],
+      "correct": 3,
+      "prize": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Cặp số nào sau đây là nghiệm của hệ phương trình $\\left\\{ {\\begin{array}{*{20}{l}} {x + y = 5}\\\\ {2x - y = 4} \\end{array}} \\right.$",
+      "a": [
+        "(1; 4)",
+        "(4; 1)",
+        "(2; 3)",
+        "(3; 2)"
+      ],
+      "correct": 3,
+      "prize": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Nếu $m > n$ thì bất đẳng thức nào sau đây ĐÚNG?",
+      "a": [
+        "$m - 1 < n - 1$",
+        "$-m > -n$",
+        "$2m > 2n$",
+        "$1 - m < 1 - n$"
+      ],
+      "correct": 2,
+      "prize": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Khẳng định nào sau đây là ĐÚNG?",
+      "a": [
+        "$sin 10^0 = sin 80^0$",
+        "$cos 25^0 = sin 65^0$",
+        "$tan 30^0 = tan 60^0$",
+        "$cot 45^0 = tan 55^0$"
+      ],
+      "correct": 1,
+      "prize": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Cho $\\Delta ABC$ vuông tại A, $\\widehat{B} = \\beta$. Khi đó tỉ số $\\frac{AC}{AB}$ bằng",
+      "a": [
+        "$sin \\beta$",
+        "$cos \\beta$",
+        "$tan \\beta$",
+        "$cot \\beta$"
+      ],
+      "correct": 2,
+      "prize": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Cho $\\Delta DEF$ vuông tại D, biết DE = 10cm và $\\widehat{E}=30^0$. Độ dài DF là:",
+      "a": [
+        "$10\\sqrt{3}$ cm",
+        "$\\frac{10\\sqrt{3}}{3}$ cm",
+        "$20$ cm",
+        "$5\\sqrt{3}$ cm"
+      ],
+      "correct": 1,
+      "prize": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Một cái cây cao 12m. Tại một thời điểm, bóng của nó trên mặt đất dài 8m. Góc tạo bởi tia nắng mặt trời và mặt đất là (làm tròn đến độ):",
+      "a": [
+        "34^0",
+        "48^0",
+        "56^0",
+        "60^0"
+      ],
+      "correct": 2,
+      "prize": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "true_false",
+      "q": "Cho $\\Delta MNP$ vuông tại M, đường cao MH. Biết MN = 9cm, MP = 12cm. Xét tính Đúng/Sai:",
+      "statements": [
+        {
+          "text": "$NP = 15cm$",
+          "correct": true
+        },
+        {
+          "text": "$sin N = \\frac{4}{5}$",
+          "correct": true
+        },
+        {
+          "text": "$tan P = \\frac{3}{4}$",
+          "correct": true
+        },
+        {
+          "text": "$MH = 7.2cm$",
+          "correct": true
+        }
+      ],
+      "prizePerItem": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "short_answer",
+      "q": "Hệ phương trình $\\left\\{ \\begin{array}{l} x + y = 8 \\\\ x - y = 2 \\end{array} \\right.$ có nghiệm $(x; y)$. Tính giá trị $x \\cdot y$.",
+      "correct": [
+        "15"
+      ],
+      "prize": 0.5,
+      "solution": ""
+    },
+    {
+      "type": "short_answer",
+      "q": "Cho tam giác ABC vuông tại A, đường cao AH. Biết $BH=2$cm, $CH=8$cm. Độ dài đường cao AH bằng:",
+      "correct": [
+        "4",
+        "4cm"
+      ],
+      "prize": 0.5,
+      "solution": ""
+    },
+    {
+      "type": "short_answer",
+      "q": "Cho $\\Delta ABC$ vuông tại A, $\\widehat{B}=60^0$ và AB = 5cm. Độ dài cạnh AC bằng:",
+      "correct": [
+        "5sqrt(3)",
+        "5\\sqrt{3}"
+      ],
+      "prize": 0.5,
+      "solution": ""
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Bất phương trình $3x + 15 < 0$ có nghiệm là",
+      "a": [
+        "$x > 5$",
+        "$x < 5$",
+        "$x > -5$",
+        "$x < -5$"
+      ],
+      "correct": 3,
+      "prize": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Phương trình $2x + y = 3$ nhận cặp số nào sau đây làm nghiệm",
+      "a": [
+        "(0; 2)",
+        "(1; 1)",
+        "(2; -2)",
+        "(-1; 4)"
+      ],
+      "correct": 1,
+      "prize": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Cho $\\Delta ABC$ vuông tại A, $\\widehat{B} = \\beta$. Khi đó tỉ số $\\frac{AB}{BC}$ bằng",
+      "a": [
+        "$sin \\beta$",
+        "$cos \\beta$",
+        "$tan \\beta$",
+        "$cot \\beta$"
+      ],
+      "correct": 1,
+      "prize": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Cho $\\Delta ABC$ vuông tại A, biết AC = 6cm và $cos C = 0.5$. Độ dài cạnh BC là:",
+      "a": [
+        "12cm",
+        "3cm",
+        "$6\\sqrt{3}$cm",
+        "9cm"
+      ],
+      "correct": 0,
+      "prize": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "true_false",
+      "q": "Xét phương trình $\\frac{x}{x-1} + \\frac{1}{x+1} = \\frac{2}{x^2-1}$. Đánh giá tính Đúng/Sai:",
+      "statements": [
+        {
+          "text": "Điều kiện xác định là $x \\neq 1$ và $x \\neq -1$.",
+          "correct": true
+        },
+        {
+          "text": "Quy đồng mẫu số ta được $x(x+1) + (x-1) = 2$.",
+          "correct": true
+        },
+        {
+          "text": "Phương trình tương đương $x^2 + 2x - 3 = 0$.",
+          "correct": true
+        },
+        {
+          "text": "Phương trình có nghiệm $x=1$.",
+          "correct": false
+        }
+      ],
+      "prizePerItem": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "true_false",
+      "q": "Cho $\\alpha$ là một góc nhọn. Xét tính Đúng/Sai của các hệ thức sau:",
+      "statements": [
+        {
+          "text": "$tan \\alpha \\cdot cot \\alpha = 1$",
+          "correct": true
+        },
+        {
+          "text": "$sin 30^0 = cos 30^0$",
+          "correct": false
+        },
+        {
+          "text": "$sin^2 20^0 + cos^2 20^0 = 1$",
+          "correct": true
+        },
+        {
+          "text": "$tan 40^0 = cot 50^0$",
+          "correct": true
+        }
+      ],
+      "prizePerItem": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "short_answer",
+      "q": "Nghiệm của bất phương trình $12 - 4x < 0$ là:",
+      "correct": [
+        "x > 3",
+        "x>3"
+      ],
+      "prize": 0.5,
+      "solution": ""
+    },
+    {
+      "type": "short_answer",
+      "q": "Hệ phương trình $\\left\\{ \\begin{array}{l} 3x + y = 10 \\\\ x - y = 2 \\end{array} \\right.$ có nghiệm $(x; y)$. Tính $x+y$.",
+      "correct": [
+        "4"
+      ],
+      "prize": 0.5,
+      "solution": ""
+    },
+    {
+      "type": "short_answer",
+      "q": "Cho $\\Delta ABC$ vuông tại A, đường cao AH. Biết $AC=8$, $BC=10$. Độ dài $CH$ bằng:",
+      "correct": [
+        "6.4",
+        "6,4"
+      ],
+      "prize": 0.5,
+      "solution": ""
+    },
+    {
+      "type": "short_answer",
+      "q": "Một cái thang dài 6m. Chân thang đặt cách tường 3m. Góc tạo bởi thang và mặt đất là bao nhiêu độ?",
+      "correct": [
+        "60",
+        "60 độ"
+      ],
+      "prize": 0.5,
+      "solution": ""
+    }
+  ]
+}
