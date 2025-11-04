@@ -1,12 +1,13 @@
 [
   {
-    "Họ và tên": "Nguyễn Thủy Tiên",
-    "Lớp": "7A2",
-    "Mật khẩu": "1234@"
+    "Ho_ten": "Nguyễn Thủy Tiên",
+    "Lop": "7A2",
+    "Mat_khau": "1234@"
   },
   {
-    "Họ và tên": "Phạm Văn Tĩnh",
-    "Lớp": "Giáo viên",
-    "Mật khẩu": "A@123456"
+    "Ho_ten": "Phạm Văn Tĩnh",
+    "Lop": "Giáo viên",
+    "Mat_khau": "A@123456"
   }
 ]
+
