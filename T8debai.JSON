@@ -4,8 +4,8 @@
   "thoi_gian_lam_bai": 25,
   "thoi_gian_bat_dau": "2025-11-03T07:00",
   "thoi_gian_ket_thuc": "2025-11-08T12:00",
-  "googleSheetUrl": "https://script.google.com/macros/s/AKfycbziKVdpjF5D6Rxd1TElpp3FPW-ETFeI8Hgee66AXtAPxoqw0QmomFZwSPxOVDpGnydZ/exec",
-  "mat_khau": "T10@T801",
+  "googleSheetUrl": "https://script.google.com/macros/s/AKfycbwx60DanvfOVcFgRyRGOV6QsUNqO00eAqfi_m5f0Sr98MSArPd-mIt00vaDa2we8FlP/exec",
+  "mat_khau": "",
   "questions": [
     {
       "type": "multiple_choice",
@@ -319,4 +319,5 @@
     }
   ]
 }
+
 
