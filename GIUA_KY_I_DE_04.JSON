@@ -1,0 +1,315 @@
+{
+  "quizName": "ÔN TẬP TOÁN 6 GIỮA HỌC KỲ I (ĐỀ 04)",
+  "quizDuration": 30,
+  "googleSheetUrl": "https://script.google.com/macros/s/AKfycbx9rcxjMigcf4PUVTEgZ341goT_6cg2LbG0AIP9-1YadLYBxiFZ2A9B1Wn_hF1lTMVPDw/exec",
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "q": "Cho tập hợp $A = \\{2; 4; 6; 8\\}$. Cách viết nào sau đây thể hiện tính chất đặc trưng?",
+      "a": [
+        "$A = \\{x \\in \\mathbb{N} | x \\le 8\\}$",
+        "$A = \\{x \\in \\mathbb{N}^* | x < 10\\}$",
+        "$A = \\{x \\in \\mathbb{N} | x$ là số chẵn, $0 < x < 10\\}$",
+        "$A = \\{x \\in \\mathbb{N} | x$ là số chẵn, $x \\le 8\\}$"
+      ],
+      "correct": 3,
+      "prize": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Kết quả của phép tính $10^3$ là:",
+      "a": [
+        "100",
+        "1000",
+        "30",
+        "10000"
+      ],
+      "correct": 1,
+      "prize": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Số nào sau đây là bội của 9?",
+      "a": [
+        "129",
+        "190",
+        "98",
+        "198"
+      ],
+      "correct": 3,
+      "prize": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Số 27 được viết bằng số La Mã là:",
+      "a": [
+        "XXIII",
+        "XXVII",
+        "XXV",
+        "IXX"
+      ],
+      "correct": 1,
+      "prize": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Kết quả của phép tính $25.8.4.125$ là:",
+      "a": [
+        "10000",
+        "100000",
+        "1000",
+        "1000000"
+      ],
+      "correct": 1,
+      "prize": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Trong các số sau, số nào chia hết cho 5 nhưng không chia hết cho 2?",
+      "a": [
+        "2020",
+        "1995",
+        "1992",
+        "2050"
+      ],
+      "correct": 1,
+      "prize": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Phân tích số 40 ra thừa số nguyên tố:",
+      "a": [
+        "$2^3.5$",
+        "$4.10$",
+        "$2.4.5$",
+        "$8.5$"
+      ],
+      "correct": 0,
+      "prize": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "multiple_choice",
+      "q": "BCNN(6, 8, 10) là:",
+      "a": [
+        "240",
+        "60",
+        "120",
+        "80"
+      ],
+      "correct": 2,
+      "prize": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Trong các hình sau, hình nào không có trục đối xứng?",
+      "a": [
+        "Hình tam giác đều",
+        "Hình vuông",
+        "Hình chữ nhật",
+        "Hình bình hành"
+      ],
+      "correct": 3,
+      "prize": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Một hình thoi có độ dài hai đường chéo là 6cm và 8cm. Diện tích hình thoi là:",
+      "a": [
+        "48 $cm^2$",
+        "14 $cm^2$",
+        "24 $cm^2$",
+        "28 $cm^2$"
+      ],
+      "correct": 2,
+      "prize": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Chu vi của một hình thang cân có cạnh bên 5cm và hai đáy 6cm, 10cm là:",
+      "a": [
+        "26cm",
+        "21cm",
+        "16cm",
+        "30cm"
+      ],
+      "correct": 0,
+      "prize": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Một hình chữ nhật có diện tích 50 $m^2$ và chiều dài 10m. Chu vi của nó là:",
+      "a": [
+        "15m",
+        "60m",
+        "500m",
+        "30m"
+      ],
+      "correct": 3,
+      "prize": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "true_false",
+      "q": "Xét tính ĐÚNG/SAI của các phát biểu về số tự nhiên:",
+      "statements": [
+        {
+          "text": "Số 0 là số tự nhiên nhỏ nhất.",
+          "correct": true
+        },
+        {
+          "text": "Số 1 là số nguyên tố.",
+          "correct": false
+        },
+        {
+          "text": "Số 2 là số nguyên tố chẵn duy nhất.",
+          "correct": true
+        },
+        {
+          "text": "Mọi số tự nhiên đều có số liền sau.",
+          "correct": true
+        }
+      ],
+      "prizePerItem": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "true_false",
+      "q": "Cho số $A = 12 + 18$. Xét tính ĐÚNG/SAI:",
+      "statements": [
+        {
+          "text": "A chia hết cho 2.",
+          "correct": true
+        },
+        {
+          "text": "A chia hết cho 3.",
+          "correct": true
+        },
+        {
+          "text": "A chia hết cho 9.",
+          "correct": false
+        },
+        {
+          "text": "A chia hết cho 6.",
+          "correct": true
+        }
+      ],
+      "prizePerItem": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "true_false",
+      "q": "Xét tính ĐÚNG/SAI của các phát biểu về hình học sau:",
+      "statements": [
+        {
+          "text": "Hình vuông có 4 trục đối xứng.",
+          "correct": true
+        },
+        {
+          "text": "Hình chữ nhật có 2 đường chéo bằng nhau.",
+          "correct": true
+        },
+        {
+          "text": "Hình thang cân có 2 đường chéo vuông góc.",
+          "correct": false
+        },
+        {
+          "text": "Hình thoi có 4 góc bằng nhau.",
+          "correct": false
+        }
+      ],
+      "prizePerItem": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "true_false",
+      "q": "Cho hai số a = 20 và b = 30. Xét tính ĐÚNG/SAI:",
+      "statements": [
+        {
+          "text": "ƯCLN(20, 30) = 10",
+          "correct": true
+        },
+        {
+          "text": "BCNN(20, 30) = 60",
+          "correct": true
+        },
+        {
+          "text": "Tích ƯCLN và BCNN bằng 20 x 30.",
+          "correct": true
+        },
+        {
+          "text": "5 là một ước chung của 20 và 30.",
+          "correct": true
+        }
+      ],
+      "prizePerItem": 0.25,
+      "solution": ""
+    },
+    {
+      "type": "short_answer",
+      "q": "Tính giá trị của biểu thức: $120 : \\{ 50 + [100 - (5^2 + 25)] \\}$",
+      "correct": [
+        "2"
+      ],
+      "prize": 0.5,
+      "solution": ""
+    },
+    {
+      "type": "short_answer",
+      "q": "Tìm $x$, biết $2.x + 15 = 35$",
+      "correct": [
+        "10"
+      ],
+      "prize": 0.5,
+      "solution": ""
+    },
+    {
+      "type": "short_answer",
+      "q": "Một lớp học có 28 nam và 24 nữ. Hỏi có thể chia lớp thành nhiều nhất bao nhiêu nhóm sao cho số nam và nữ ở mỗi nhóm bằng nhau?",
+      "correct": [
+        "4"
+      ],
+      "prize": 0.5,
+      "solution": ""
+    },
+    {
+      "type": "short_answer",
+      "q": "Ba chiếc xe buýt cùng khởi hành lúc 6h sáng. Xe 1 về bến sau 10 phút, xe 2 sau 12 phút, xe 3 sau 15 phút. Hỏi cả ba xe lại cùng về bến lần tiếp theo lúc mấy giờ mấy phút?",
+      "correct": [
+        "7h00",
+        "7h",
+        "7 giờ"
+      ],
+      "prize": 0.5,
+      "solution": ""
+    },
+    {
+      "type": "short_answer",
+      "q": "Một mảnh vườn hình chữ nhật có chu vi 100m, chiều dài 30m. Tính diện tích mảnh vườn.",
+      "correct": [
+        "600"
+      ],
+      "prize": 0.5,
+      "solution": ""
+    },
+    {
+      "type": "short_answer",
+      "q": "Một sân nhà hình vuông có chu vi 24m. Tính diện tích sân nhà đó.",
+      "correct": [
+        "36"
+      ],
+      "prize": 0.5,
+      "solution": ""
+    }
+  ]
+}
