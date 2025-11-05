@@ -5,7 +5,7 @@
   "thoi_gian_bat_dau": "2025-11-03T07:00",
   "thoi_gian_ket_thuc": "2025-11-08T12:00",
   "googleSheetUrl": "https://script.google.com/macros/s/AKfycbwOfp_ns4gYZfPEvrnTtTv18HEViWeWuyNep7ipmUOiFV3X5YC_n8tQmvvHufP5bDtZTg/exec",
-  "mat_khau": "",
+  "mat_khau": "A@123456",
   "questions": [
     {
       "type": "multiple_choice",
